@@ -15,7 +15,7 @@ bubble_sort(raamatud)
 
 #Eemaldame raamatud, mis on üle 30cm pikkad
 for x in raamatud:
-    if 30 in raamatud:
+    if 31 in raamatud:
         raamatud.pop(-1)
     
 #Kui pikkad raamatud meil riiulisse lähevad
